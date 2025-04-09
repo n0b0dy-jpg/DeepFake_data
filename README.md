@@ -1,4 +1,4 @@
-# 🕵️ DeepFake Detection Dataset
+# 🕵️ Low-quality DeepFake Detection Dataset
 
 A high-quality, multi-source dataset for training and evaluating **DeepFake detection** models, especially under **low-quality and compressed video conditions**.
 
