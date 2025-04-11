@@ -46,7 +46,8 @@ We simulate real-world video sharing platforms by applying:
 - Bitrate throttling (e.g., 800kbps, 500kbps, 200kbps)
 - Resolution downsampling (e.g., 720p → 480p)
 - Codec-based artifacts using FFMPEG
-
+![Uncompressed](Uncompressed.png)
+![Compression Artifact](Compression_Artifact.png)
 
 ---
 
