@@ -38,6 +38,7 @@ Each file is named with a unique timestamp-style ID (e.g., `1570235900–1–300
 - **Real videos**: ~1000, mostly crawled from **Bilibili** and **YouTube**.
 - **Fake videos**: ~4000, generated using different DeepFake pipelines and subjected to various post-processings.
 ### 🎭 Real vs Fake Samples
+![real](real.png) ![fake](fake.png)
 ### 🧪 Compression & Quality Settings
 
 We simulate real-world video sharing platforms by applying:
