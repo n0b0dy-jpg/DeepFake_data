@@ -48,7 +48,7 @@ We simulate real-world video sharing platforms by applying:
 - Codec-based artifacts using FFMPEG
 ![Uncompressed](Uncompressed.png)
 ![Compression Artifact](Compression_Artifact.png)
-
+![Low Resolution](Low_Resolution.png)
 ---
 
 ## 🧰 Quick Usage
